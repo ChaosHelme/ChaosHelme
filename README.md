@@ -29,6 +29,7 @@ While most of my professional work is private, I occasionally create public proj
 Here are a couple of examples from my GitHub:
 
 - [Modulith-Learning](https://github.com/ChaosHelme/Modulith-Learning) – A playground for learning modulithic architecture, combining .NET Web API and GraphQL (using HotChocolate).
+- [Simple-CRUD-Learning](https://github.com/ChaosHelme/Simple-CRUD-Learning) – A simple .NET Web API CRUD application for enhanced inventory management.
 - [SimpleK8](https://github.com/ChaosHelme/Simple-K8) – A simple Kubernetes-related project.
 - [PacMan Learning](https://github.com/ChaosHelme/PacMan-Learning) – Experimenting with AI and classic games.
 
