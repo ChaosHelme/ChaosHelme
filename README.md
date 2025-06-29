@@ -32,7 +32,7 @@ Here are a couple of examples from my GitHub:
 - [Simple-CRUD-Learning](https://github.com/ChaosHelme/Simple-CRUD-Learning) – A simple .NET Web API CRUD application for enhanced inventory management using onion layer architecture.
 - [SimpleK8](https://github.com/ChaosHelme/Simple-K8) – A simple Kubernetes-related project.
 - [PacMan Learning](https://github.com/ChaosHelme/PacMan-Learning) – Experimenting with AI and classic games.
-- [piratebattleships](https://github.com/ChaosHelme/piratebattleships) – My first game ever, built with the .NET Framework over 15 years ago! This repo is archived and kept for nostalgia.
+- [piratebattleships](https://github.com/ChaosHelme/piratebattleships) – My first game ever, built with the .NET Framework 3.5 back in 2010. This repo is archived and kept for nostalgia ☺️.
 
 These repos are not actively maintained, but they showcase my curiosity and my love for building things in my spare time!
 
