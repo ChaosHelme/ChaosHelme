@@ -24,7 +24,7 @@ I'm passionate about bringing people together to build state-of-the-art technolo
 
 ---
 
-## 💼 Professional (Game) Projects
+## 💼 Professional Projects (Released games I worked on)
 
 In addition to my personal and experimental projects, I have been fortunate to contribute to several exciting professional game titles:
 
