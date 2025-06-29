@@ -72,4 +72,4 @@ Working with people and cutting-edge technology is equally important to me. I be
 
 ---
 
-*Let’s connect and build something amazing together!*
+*Don't hesitate to contact me via LinkedIn. I'm always keen to connect to new people*
