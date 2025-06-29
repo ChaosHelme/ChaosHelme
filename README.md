@@ -18,6 +18,7 @@ I'm passionate about bringing people together to build state-of-the-art technolo
 - **Languages & Frameworks:** C#, .NET, TypeScript, Entity Framework Core, Entitas (C# based ECS)
 - **APIs:** GraphQL, REST Web API
 - **DevOps:** Docker, Kubernetes, Helm Charts, GitLab CI Pipelines
+- **Cloud:** AWS
 - **Game Dev:** Unity, Entitas (see Languges & Frameworks)
 - **Version Control:** Git, SVN
 
