@@ -35,13 +35,6 @@ Working with people and cutting-edge technology is equally important to me. I be
 
 ---
 
-## 🌎 Find Me Online
-
-- [GitHub](https://github.com/ChaosHelme)
-- [LinkedIn](https://www.linkedin.com/in/markus-bohnert/)
-
----
-
 ## 🎮 Hobbies & Interests
 
 - Gaming  
