@@ -23,6 +23,26 @@ I'm passionate about bringing people together to build state-of-the-art technolo
 
 ---
 
+## 💼 Professional Projects
+
+In addition to my personal and experimental projects, I have been fortunate to contribute to several exciting professional game titles:
+
+- [Albion Online](https://albiononline.com/home)  
+  *Sandbox Interactive, 2018*  
+  I worked on this MMORPG for six months, where I helped develop the initial "Seasons" feature—an innovative competitive system for guilds—as well as the fishing feature, which brought new depth to the game’s economy and player activities.
+
+- [Survival City](https://play.google.com/store/apps/details?id=com.playstack.survivalcity)  
+  *PlayStack, iOS & Android*  
+  This mobile survival and strategy game was my main focus for over six years. I progressed to lead programmer, overseeing feature development, team collaboration, and the technical direction that delivered a rich, engaging experience for players on both iOS and Android platforms.
+
+- [Super Dashmatch](https://store.steampowered.com/app/750420/Super_Dashmatch/)  
+  *Student Project*  
+  As a student, I contributed to this competitive local multiplayer game, which launched in Early Access on Steam. While the project never made it past EA, it was a valuable learning experience in rapid prototyping, gameplay balancing, and teamwork within a multidisciplinary team.
+
+These projects reflect not just my technical skills, but also my commitment to delivering memorable player experiences and my growth as a collaborative developer and leader in the games industry.
+
+---
+
 ## 🌟 Side Projects
 
 While most of my professional work is private, I occasionally create public projects for fun, learning, or to explore new technologies.  
