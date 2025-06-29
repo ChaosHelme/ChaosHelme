@@ -8,7 +8,7 @@
 
 I'm passionate about bringing people together to build state-of-the-art technology. With years of experience as a Team Lead and Team Architect, I thrive at the intersection of technical excellence and strong, positive team culture.
 
-- 🏗️ **Roles:** Team Lead / Team Architect  
+- 🏗️ **Roles:** Team Lead / Team Architect / Lead Programmer / Senior .Net Engineer
 - 💬 **People Skills:** Connecting with others, communication, leadership, team building
 
 ---
